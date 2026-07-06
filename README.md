@@ -1,2 +1,28 @@
-# d91773a6520c8175-crypto-web3-user-authenticatio
-spending hours building a system before you can actually use it costs you real money. This Notion template pays for itself in one use.  Fully documented: every section explained so you know exactly what to customize. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Crypto Web3 User Authentication And A
+# Crypto Web3 User Authentication and Access Control
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJeeVd26H0bWbRS33mcZF3c)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJeeVd26H0bWbRS33mcZF3c)
+
